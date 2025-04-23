@@ -14,7 +14,7 @@
 ## 🧰 Tech Stack
 
 - **Frontend**: HTML, CSS, JavaScript
-- **Backend**:  PHP (update based on actual use)
+- **Backend**:  PHP 
 - **Database**: MySQL
 
 
